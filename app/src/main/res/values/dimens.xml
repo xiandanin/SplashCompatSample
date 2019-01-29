@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="margin_top_splash">40dp</dimen>
-    <dimen name="margin_bottom_splash">82dp</dimen>
+    <dimen name="margin_vertical_splash">35dp</dimen>
 </resources>
